@@ -2,10 +2,7 @@
 
 
 # Hello there 👋
-Marcelo Gouveia, brazilian, 25yrs, 
-
-## About me
-I am a backend and frontend developer. I like programming, computers, games, coffee and japanese food 😄.
+Marcelo Gouveia, brazilian, 27yrs, 
 
 > Software Developer at [Sagenx TI](#)
 
