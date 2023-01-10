@@ -4,7 +4,7 @@
 # Hello there 👋
 Marcelo Gouveia, brazilian, 27yrs, 
 
-> Software Developer at [Sagenx TI](#)
+> Fullstack Developer at [Raízen](https://www.raizen.com.br/)
 
 ### Some Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
