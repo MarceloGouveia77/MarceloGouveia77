@@ -1,41 +1,72 @@
+<h2> Hi, I'm Marcelo Gouveia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="230">
 
+<p>
+    <em>Fullstack Developer at &nbsp;&nbsp;</em>
+    <a href="http://raizen.com.br">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c2aDU5M21yemF6Y3lpNjVjMjFzcTZ1bHo5d203a2kwendtM2JldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdCbnSTH8EDcx6jj9q/giphy.gif" width="80">
+    </a>
+</p>
 
+[![Linkedin: marcelogouveia](https://img.shields.io/badge/-marcelogouveia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-gouveia-1353a213b/)](https://www.linkedin.com/in/marcelo-gouveia-1353a213b/)
+[![GitHub Marcelo Gouveia](https://img.shields.io/github/followers/marcelogouveia77?label=follow&style=social)](https://github.com/MarceloGouveia77)
 
-# Hello there 👋
-Marcelo Gouveia, brazilian, 27yrs, 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-> Fullstack Developer at [Raízen](https://www.raizen.com.br/)
+```javascript
+const thai = {
+  nationality: "Brazilian",
+  developerSince: 2017,
+  graduation: "B.Sc. in Computer Science at UFG",
+  mainLanguages: ["Python", "Typescript", "Javascript", "Go", "Java"],
+  frontend: [
+    "React",
+    "Redux",
+    "RTK",
+    "Node",
+    "Styled-Components",
+    "Jest",
+    "NextJS",
+    "jQuery",
+  ],
+  backend: ["Django", "FastAPI", "Flask", "NestJS", "Express"],
+  database: ["Postgresql", "mySQL", "mongoDB"],
+  architecture: [
+    "microservices",
+    "event-driven",
+    "design system pattern",
+    "TDD",
+    "DDD",
+    "SOLID",
+  ],
+  moreTechnologies: [
+    "Kubernetes",
+    "Docker",
+    "CI/CD",
+    "Github Actions",
+    "AWS S3",
+    "AWS EC2",
+    "nginx",
+    "Pandas",
+    "Grafana",
+  ],
+  someSoftSkills: {
+    communication: "The ability to convey information clearly and effectively",
+    teamwork: "Collaborating with others to achieve common goals",
+    problemSolving:
+      "Analyzing situations, identifying challenges, and coming up with effective solutions",
+    adaptability: "Being flexible and open to change",
+    networking:
+      "Building and maintaining meaningful relationships with people in my personal and professional circles",
+  },
+  challenge:
+    "I am doing the #100DaysOfCode challenge focused on react and typescript",
+};
+```
 
-### Some Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<div>
+<a href="https://github.com/MarceloGouveia77">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloGouveia77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-### Tools
-![Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-## Github status
-[![Flávio Vitoriano](https://github-readme-stats.vercel.app/api?username=marcelogouveia77&show_icons=true&count_private=true)](https://github.com/marcelogouveia77)
-
-## Contact
-
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelogouveia77)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-gouveia-1353a213b/)
-[
-![Gmail Badge](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)
-](mailto:mgouveiadeassis@gmail.com)
-[
-![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-](https://www.instagram.com/marcelogouveia77/)
+---
