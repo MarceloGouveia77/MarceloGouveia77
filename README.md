@@ -60,7 +60,7 @@ const thai = {
       "Building and maintaining meaningful relationships with people in my personal and professional circles",
   },
   challenge:
-    "I am doing the #100DaysOfCode challenge focused on react and typescript",
+    "Keep learning",
 };
 ```
 
