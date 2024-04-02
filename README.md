@@ -66,7 +66,7 @@ const me = {
 
 <div>
 <a href="https://github.com/MarceloGouveia77">
-<img loading="lazy" height="180em" src="https://github-readme-stats-contato-descontoemga.vercel.app/api?username=MarceloGouveia77&show_icons=true&theme=radical&show=reviews&hide=issues"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats-contato-descontoemga.vercel.app/api?username=MarceloGouveia77&show_icons=true&theme=radical&show=reviews&hide=issues,prs"/>
 </div>
 
 ---
